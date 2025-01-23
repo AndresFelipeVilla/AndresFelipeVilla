@@ -1,4 +1,4 @@
-<img src="https://github.com/AndresFelipeVilla/AndresFelipeVilla/blob/master/Img/Sin%20t%C3%ADtulo%20(2).png">
+<img src="https://github.com/AndresFelipeVilla/AndresFelipeVilla/blob/main/Banner.png"> 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola, Soy Andres Villa</h2>
 
