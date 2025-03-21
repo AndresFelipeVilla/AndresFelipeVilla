@@ -40,6 +40,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
 ## 🏆 Logros
+- Certificación de Seguridad Web con Spring Security (2025).
 - Certificación de Desarrollo de APIs en Spring Boot (2024).
 - Certificación de Programación Orientada a Objetos (2024).
 
