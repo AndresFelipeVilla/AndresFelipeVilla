@@ -65,7 +65,6 @@ Desarrollador de software enfocado en el ecosistema **Backend**, apasionado por 
   <img src="https://github-readme-stats.vercel.app/api?username=AndresFelipeVilla&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFelipeVilla&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </div>
-
 ---
 
 ### 🤝 Conéctate conmigo
@@ -81,6 +80,3 @@ Desarrollador de software enfocado en el ecosistema **Backend**, apasionado por 
   </a>
 </p>
 
-<div align="center">
-  <sub>Construido con ❤️ por Andrés Villa</sub>
-</div>
