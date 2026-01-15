@@ -60,13 +60,6 @@ Desarrollador de software enfocado en el ecosistema **Backend**, apasionado por 
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresFelipeVilla&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFelipeVilla&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</div>
----
-
 ### 🤝 Conéctate conmigo
 
 ¿Tienes algún proyecto en mente o quieres charlar sobre tecnología? ¡Hablemos!
@@ -74,9 +67,6 @@ Desarrollador de software enfocado en el ecosistema **Backend**, apasionado por 
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-felipe-villa-pardo/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:andresfelipevillapardo7@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
